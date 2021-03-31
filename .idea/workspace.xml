@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77c33288-75ef-4d6d-8e4d-0cd600b14dde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="practiceDemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bZSqkTgIBzHZkV59qieHkSFKl7" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/im/cim-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="BlMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BlMap" />
+      <module name="practiceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lambda.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.streamApi.Demo1" />
+      <module name="practiceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.streamApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LIstAndStringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LIstAndStringDemo" />
+      <module name="practiceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lambda.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Node" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lambda.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Node" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Node.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lambda.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Node" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.BlMap" />
+        <item itemvalue="JUnit.Node.test" />
+        <item itemvalue="JUnit.Node" />
+        <item itemvalue="Application.LIstAndStringDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77c33288-75ef-4d6d-8e4d-0cd600b14dde" name="Default Changelist" comment="" />
+      <created>1588838316134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588838316134</updated>
+      <workItem from="1588838320863" duration="843000" />
+      <workItem from="1589436943828" duration="1499000" />
+      <workItem from="1589880940207" duration="1907000" />
+      <workItem from="1590567633594" duration="3267000" />
+      <workItem from="1590648879060" duration="3099000" />
+      <workItem from="1590717849806" duration="1294000" />
+      <workItem from="1590976592847" duration="749000" />
+      <workItem from="1591264097869" duration="768000" />
+      <workItem from="1592367967818" duration="2700000" />
+      <workItem from="1593426426573" duration="3704000" />
+      <workItem from="1594180199196" duration="2167000" />
+      <workItem from="1594359425582" duration="3284000" />
+      <workItem from="1594806486781" duration="653000" />
+      <workItem from="1594861312946" duration="12253000" />
+      <workItem from="1595291833773" duration="21620000" />
+      <workItem from="1595817988461" duration="772000" />
+      <workItem from="1597198801210" duration="12473000" />
+      <workItem from="1610099655125" duration="1059000" />
+      <workItem from="1611994060246" duration="4991000" />
+      <workItem from="1613961617112" duration="2319000" />
+      <workItem from="1614307279956" duration="1159000" />
+      <workItem from="1615288025583" duration="4833000" />
+      <workItem from="1615978419430" duration="1186000" />
+      <workItem from="1616739870983" duration="3320000" />
+      <workItem from="1616746911996" duration="3655000" />
+      <workItem from="1616985779050" duration="10348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1616747531972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1616747531972" />
+    <state width="450" height="466" key="DebuggerActiveHint" timestamp="1617000290299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="450" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1617000290299" />
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1617003343113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617003343113" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1617003343113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617003343113" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1617003343113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617003343113" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1617003343113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617003343113" />
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom" timestamp="1617001989462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617001989462" />
+    <state width="1493" height="240" key="GridCell.Tab.1.center" timestamp="1617001989454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1617001989454" />
+    <state width="1493" height="240" key="GridCell.Tab.1.left" timestamp="1617001989454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1617001989454" />
+    <state width="1493" height="240" key="GridCell.Tab.1.right" timestamp="1617001989454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="240" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1617001989454" />
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1615290591544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1615290591544" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615978677019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615978677019" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/TianJiSaiMa.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
